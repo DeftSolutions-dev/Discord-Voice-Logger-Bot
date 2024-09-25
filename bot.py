@@ -8,7 +8,7 @@ import os
 
 load_dotenv()
 TOKEN = os.getenv('TOKEN')
-DATABASE_PATH = os.getenv('DATABASE_PATH', 'voice_logs.db')
+DATABASE_PATH = os.getenv('DATABASE_PATH')
 LOG_CHANNEL_ID = int(os.getenv('LOG_CHANNEL_ID'))
 GUILD_ID = int(os.getenv('GUILD_ID'))
 
