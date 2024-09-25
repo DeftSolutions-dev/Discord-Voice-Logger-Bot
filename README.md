@@ -14,7 +14,8 @@
 - **Просмотр логов**: Команда `/log` позволяет просматривать логи по пользователям и датам.
 - **Удобный интерфейс**: Использование кнопок для выбора даты и навигации по логам.
 
-![image](https://github.com/user-attachments/assets/6ba4291f-6f8f-4852-9f69-9afa373a075b)
+![image](https://github.com/user-attachments/assets/c6314c7f-483d-415a-908a-d0c3f076c89f)
+
 
 
 ## Требования
@@ -145,15 +146,16 @@ python bot.py
 
 ### Присоединение к голосовому каналу
 
-![Присоединение](https://github.com/user-attachments/assets/1c5d4e65-1988-4e2e-a3df-8bec4df9dc62)
+![Присоединение](https://github.com/user-attachments/assets/4612fbc6-9e6e-4a95-9c51-9835cd0e409e)
 
 ### Покидание голосового канала
 
-![Покидание](https://github.com/user-attachments/assets/232a251d-cdad-43b9-a619-776b0714c815)
+![Покидание](https://github.com/user-attachments/assets/e94907b7-ad41-4926-9120-b16bf96f2d49)
 
 ### Переключение голосовых каналов
 
-![Переключение](https://github.com/user-attachments/assets/65d0eae6-8ade-4a60-8b0d-de3ba5ff6e20)
+![Переключение](https://github.com/user-attachments/assets/047760fb-4ab7-48ea-8226-07e8fc8190b1)
+
 
 
 ## Контакты
